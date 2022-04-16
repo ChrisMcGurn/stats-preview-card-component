@@ -92,20 +92,20 @@ body {
   text-transform: uppercase;
 }
 
-.attribution {
+.footer {
   background-color: #000;
   text-align: center;
   color: var(--faded-white);
   padding: 2rem;
 }
 
-.attribution a {
+.footer a {
   color: var(--white);
   font-weight: bold;
   text-decoration: none;
 }
 
-.attribution a:hover {
+.footer a:hover {
   text-decoration: underline;
 }
 
